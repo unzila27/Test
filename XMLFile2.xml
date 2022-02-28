@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> <!--prolog-->
+<?xml-stylsheet type="text/xml" href="XSLTFile1.xslt" ?>
+<info>
+	<Student>
+		<ID>101</ID>
+		<Name>Ghulam Mustafa</Name>
+		<Batch>PR202012C</Batch>
+		<Semester>CPISM</Semester>
+	</Student>
+	<Student>
+		<ID>203</ID>
+		<Name>Aliyan</Name>
+		<Batch>PR202012C</Batch>
+		<Semester>DISM</Semester>
+	</Student>
+	<Student >
+		<ID>110</ID>
+		<Name>Abdul Rauf</Name>
+		<Batch>PR202012C</Batch>
+		<Semester>DISM</Semester>
+	</Student>
+	<Student>
+		<ID>118</ID>
+		<Name>Saad</Name>
+		<Batch>PR202011C</Batch>
+		<Semester>CPISM</Semester>
+	</Student>
+	<Student>
+		<ID>245</ID>
+		<Name>Taab</Name>
+		<Batch>PR202011C</Batch>
+		<Semester>DISM</Semester>
+	</Student>
+	
+</info>
